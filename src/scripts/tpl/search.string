@@ -1,0 +1,12 @@
+<div class="m-search">
+  <header>
+    <div class="search_input">
+      <div class="search">
+        <input type="text" name="search" value="" placeholder="请输入关键字">
+      </div>
+      <div class="close">
+        <input type="button" name="close" value="关闭" action-type="toClose">
+      </div>
+    </div>
+  </header>
+</div>

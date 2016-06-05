@@ -1,0 +1,35 @@
+.m-search{
+    width:100%;
+    height:100%;
+    header{
+      height:.44rem;
+      background:#e74737;
+      text-align:center;
+      .search_input{
+        height:100%;
+        @include flexbox();
+        @include align-items(center);
+        .search{
+          @include flex(5);
+          width:100%;
+          input{
+            border-radius:.08rem;
+            border:none;
+            width:85%;
+          }
+        }
+        .close{
+          @include flex(1);
+          width:100%;
+          input{
+            background:rgba(250, 70, 30, 0.3);;
+            border-radius:.08rem;
+            border:none;
+            color:#fff;
+            width:70%;
+
+          }
+        }
+      }
+    }
+}
