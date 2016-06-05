@@ -12,7 +12,7 @@ SPA.defineView('home', {
     'beforeShow':function(){
       var vm=this.getVM();
       $.ajax({
-        url:'/yhlife/mock/mock.js',
+        url:'/yhlife/mock/lifelist.json',
         success:function(res){
           vm.lifelist=res.data;
         }
