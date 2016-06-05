@@ -1,0 +1,56 @@
+<div class="m-my">
+  <header>
+    <span class="empty">   </span>
+    <span class="tit">我的</span>
+    <span class="shez">设置</span>
+  </header>
+  <section>
+    <div class="content">
+      <img src="/yhlife/images/content.jpg" alt="" />
+    </div>
+    <div class="indent">
+      <div class="indentImg yo-ico">&#xe657;</div>
+      <div class="indentText">
+        <span>我的订单</span>
+      </div>
+      <div class="indentSj yo-ico">&#xe635;</div>
+    </div>
+
+    <div class="coupon">
+      <ul>
+        <li>
+          <div class="couImg yo-ico">&#xe622;</div>
+          <div class="couText">
+            <span>我的优惠券</span>
+          </div>
+          <div class="couSj yo-ico">&#xe635;</div>
+        </li>
+        <li>
+          <div class="couImg yo-ico">&#xe60a;</div>
+          <div class="couText">
+            <span>我的会员卡</span>
+          </div>
+          <div class="couSj yo-ico">&#xe635;</div>
+        </li>
+      </ul>
+    </div>
+    <div class="coupon">
+      <ul>
+        <li>
+          <div class="couImg yo-ico">&#xe650;</div>
+          <div class="couText">
+            <span>地址管理</span>
+          </div>
+          <div class="couSj yo-ico">&#xe635;</div>
+        </li>
+        <li>
+          <div class="couImg yo-ico">&#xe66b;</div>
+          <div class="couText">
+            <span>修改地址</span>
+          </div>
+          <div class="couSj yo-ico">&#xe635;</div>
+        </li>
+      </ul>
+    </div>
+  </section>
+</div>

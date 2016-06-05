@@ -1,0 +1,30 @@
+{
+  "ret":true,
+  "errCode":0,
+  "data":[
+    {
+      "imgSrc":"/yhlife/images/list1.jpg"
+    },
+    {
+      "imgSrc":"/yhlife/images/list2.jpg"
+    },
+    {
+      "imgSrc":"/yhlife/images/list3.jpg"
+    },
+    {
+      "imgSrc":"/yhlife/images/list4.jpg"
+    },
+    {
+      "imgSrc":"/yhlife/images/list1.jpg"
+    },
+    {
+      "imgSrc":"/yhlife/images/list2.jpg"
+    },
+    {
+      "imgSrc":"/yhlife/images/list3.jpg"
+    },
+    {
+      "imgSrc":"/yhlife/images/list4.jpg"
+    }
+  ]
+}

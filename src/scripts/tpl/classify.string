@@ -1,0 +1,33 @@
+<div class="m-classify">
+  <header>
+    <div class="empty"></div>
+    <div class="tit">分类</div>
+    <span class="yo-ico" action-type="goSearch"> &#xe693;</span>
+  </header>
+  <section>
+    <div spa-widget="scroll" class="L">
+        <ul class="classify_L">
+          <li class="active" action-type="go" data-tag="zhijgood">直降商品</li>
+          <li action-type="go" data-tag="sx">生鲜食品</li>
+          <li action-type="go" data-tag="lzh">老字号</li>
+          <li>地方特产</li>
+          <li>粮油调味</li>
+          <li>休闲食品</li>
+          <li>酒水饮料</li>
+          <li>冲调保健</li>
+          <li>主食厨房</li>
+          <li>端午节</li>
+          <li>买赠专区</li>
+          <li>主食厨房</li>
+          <li>端午节</li>
+          <li>买赠专区</li>
+        </ul>
+    </div>
+      <div  class="R" spa-widget="scroll">
+        <div class="m-classify-container">
+
+        </div>
+      </div>
+
+  </section>
+</div>

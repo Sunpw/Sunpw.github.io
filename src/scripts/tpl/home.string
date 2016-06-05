@@ -1,0 +1,11 @@
+<header>
+  <div>悠惠生活</div>
+</header>
+<section spa-widget="scroll">
+  <div>
+    <div ms-repeat-value="lifelist">
+      <img ms-src="value.imgSrc"/>
+      <div class="h20"></div>
+    </div>
+  </div>
+</section>

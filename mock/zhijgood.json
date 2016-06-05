@@ -1,0 +1,43 @@
+{
+  "ret":true,
+  "errCode":0,
+  "data":[
+    {
+      "imgSrc":"/yhlife/images/class1.jpg",
+      "tit":"磨浆核桃乳250ml*12/箱1",
+      "xj":"44￥",
+      "yj":"68￥"
+    },
+    {
+      "imgSrc":"/yhlife/images/class2.jpg",
+      "tit":"磨浆核桃乳250ml*12/箱2",
+      "xj":"44￥",
+      "yj":"68￥"
+    },
+    {
+      "imgSrc":"/yhlife/images/class3.jpg",
+      "tit":"磨浆核桃乳250ml*12/箱3",
+      "xj":"44￥",
+      "yj":"68￥"
+    },
+    {
+      "imgSrc":"/yhlife/images/class2.jpg",
+      "tit":"磨浆核桃乳250ml*12/箱2",
+      "xj":"44￥",
+      "yj":"68￥"
+    },
+    {
+      "imgSrc":"/yhlife/images/class3.jpg",
+      "tit":"磨浆核桃乳250ml*12/箱3",
+      "xj":"44￥",
+      "yj":"68￥"
+    },
+    {
+      "imgSrc":"/yhlife/images/class1.jpg",
+      "tit":"磨浆核桃乳250ml*12/箱",
+      "xj":"44￥",
+      "yj":"68￥"
+    },
+
+  ]
+}
